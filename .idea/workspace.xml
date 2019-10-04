@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="155277a8-a4c9-42a1-9172-57320651fe3b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stock_data.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <element signature="e#1934#1939#0" expanded="true" />
+                <element signature="e#1945#1950#0" expanded="true" />
+                <element signature="e#10585#10590#0" expanded="true" />
+                <element signature="e#10596#10601#0" expanded="true" />
+                <element signature="e#11784#11789#0" expanded="true" />
+                <element signature="e#11795#11800#0" expanded="true" />
+                <element signature="e#12246#12251#0" expanded="true" />
+                <element signature="e#12257#12262#0" expanded="true" />
+                <element signature="e#13907#13912#0" expanded="true" />
+                <element signature="e#13922#13927#0" expanded="true" />
+                <element signature="e#13967#13972#0" expanded="true" />
+                <element signature="e#14015#14020#0" expanded="true" />
+                <element signature="e#14030#14035#0" expanded="true" />
+                <element signature="e#14038#14043#0" expanded="true" />
+                <element signature="e#15248#15253#0" expanded="true" />
+                <element signature="e#15259#15264#0" expanded="true" />
+                <element signature="e#18432#18437#0" expanded="true" />
+                <element signature="e#18441#18446#0" expanded="true" />
+                <element signature="e#18457#18462#0" expanded="true" />
+                <element signature="e#18468#18473#0" expanded="true" />
+                <element signature="e#20457#20462#0" expanded="true" />
+                <element signature="e#20468#20473#0" expanded="true" />
+                <element signature="e#20800#20805#0" expanded="true" />
+                <element signature="e#21685#21690#0" expanded="true" />
+                <element signature="e#21696#21701#0" expanded="true" />
+                <element signature="e#22899#22904#0" expanded="true" />
+                <element signature="e#22910#22915#0" expanded="true" />
+                <element signature="e#26839#26844#0" expanded="true" />
+                <element signature="e#30018#30023#0" expanded="true" />
+                <element signature="e#30029#30034#0" expanded="true" />
+                <element signature="e#31124#31129#0" expanded="true" />
+                <element signature="e#33727#33732#0" expanded="true" />
+                <element signature="e#33738#33743#0" expanded="true" />
+                <element signature="e#34636#34641#0" expanded="true" />
+                <element signature="e#34647#34652#0" expanded="true" />
+                <element signature="e#34973#34978#0" expanded="true" />
+                <element signature="e#39243#39248#0" expanded="true" />
+                <element signature="e#39254#39259#0" expanded="true" />
+                <element signature="e#41356#41361#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stock_app.xsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_final.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stock.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="57" column="8" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>table</find>
+      <find>lilly</find>
+      <find>stock</find>
+      <find>stocks</find>
+      <find>link</find>
+      <find>tr</find>
+      <find>galle</find>
+      <find>floa</find>
+      <find>gallery</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/stock.css" />
+        <option value="$PROJECT_DIR$/stock_data.xml" />
+        <option value="$PROJECT_DIR$/stock_app.xsl" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="719" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="155277a8-a4c9-42a1-9172-57320651fe3b" name="Default Changelist" comment="" />
+      <created>1564024265683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564024265683</updated>
+      <workItem from="1564024271939" duration="602000" />
+      <workItem from="1564028807028" duration="30218000" />
+      <workItem from="1564331483966" duration="1824000" />
+      <workItem from="1564659724593" duration="222000" />
+      <workItem from="1564900231094" duration="457000" />
+      <workItem from="1565137091844" duration="292000" />
+      <workItem from="1566160996601" duration="1221000" />
+      <workItem from="1566254008106" duration="457000" />
+      <workItem from="1566586804140" duration="771000" />
+      <workItem from="1567014330044" duration="468000" />
+      <workItem from="1567133587388" duration="439000" />
+      <workItem from="1567289265803" duration="223000" />
+      <workItem from="1568999912795" duration="632000" />
+      <workItem from="1569026239754" duration="1539000" />
+      <workItem from="1569621798409" duration="1232000" />
+      <workItem from="1570027571644" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40988000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="719" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16015625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16015625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/Python/final/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_app.xml" />
+    <entry file="file://$PROJECT_DIR$/app_final.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_app.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#1934#1939#0" expanded="true" />
+            <element signature="e#1945#1950#0" expanded="true" />
+            <element signature="e#10585#10590#0" expanded="true" />
+            <element signature="e#10596#10601#0" expanded="true" />
+            <element signature="e#11784#11789#0" expanded="true" />
+            <element signature="e#11795#11800#0" expanded="true" />
+            <element signature="e#12246#12251#0" expanded="true" />
+            <element signature="e#12257#12262#0" expanded="true" />
+            <element signature="e#13907#13912#0" expanded="true" />
+            <element signature="e#13922#13927#0" expanded="true" />
+            <element signature="e#13967#13972#0" expanded="true" />
+            <element signature="e#14015#14020#0" expanded="true" />
+            <element signature="e#14030#14035#0" expanded="true" />
+            <element signature="e#14038#14043#0" expanded="true" />
+            <element signature="e#15248#15253#0" expanded="true" />
+            <element signature="e#15259#15264#0" expanded="true" />
+            <element signature="e#18432#18437#0" expanded="true" />
+            <element signature="e#18441#18446#0" expanded="true" />
+            <element signature="e#18457#18462#0" expanded="true" />
+            <element signature="e#18468#18473#0" expanded="true" />
+            <element signature="e#20457#20462#0" expanded="true" />
+            <element signature="e#20468#20473#0" expanded="true" />
+            <element signature="e#20800#20805#0" expanded="true" />
+            <element signature="e#21685#21690#0" expanded="true" />
+            <element signature="e#21696#21701#0" expanded="true" />
+            <element signature="e#22899#22904#0" expanded="true" />
+            <element signature="e#22910#22915#0" expanded="true" />
+            <element signature="e#26839#26844#0" expanded="true" />
+            <element signature="e#30018#30023#0" expanded="true" />
+            <element signature="e#30029#30034#0" expanded="true" />
+            <element signature="e#31124#31129#0" expanded="true" />
+            <element signature="e#33727#33732#0" expanded="true" />
+            <element signature="e#33738#33743#0" expanded="true" />
+            <element signature="e#34636#34641#0" expanded="true" />
+            <element signature="e#34647#34652#0" expanded="true" />
+            <element signature="e#34973#34978#0" expanded="true" />
+            <element signature="e#39243#39248#0" expanded="true" />
+            <element signature="e#39254#39259#0" expanded="true" />
+            <element signature="e#41356#41361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

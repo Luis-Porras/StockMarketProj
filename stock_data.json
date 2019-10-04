@@ -1,0 +1,1434 @@
+{
+    "stocks": [
+        {
+            "ticker": "ABBV",
+            "name": "AbbVie Inc.",
+            "img_src": "https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fcompanies%2Fabbvie_416x416.jpg",
+            "info": {
+                "open": 72.89,
+                "high": 73.0,
+                "low": 71.57,
+                "close": 72.06,
+                "volume": 1682443.0
+            },
+            "link": "https://robinhood.com/stocks/ABBV",
+            "change": "-1.14"
+        },
+        {
+            "ticker": "ABT",
+            "name": "Abbott Labs",
+            "img_src": "https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fcompanies%2Fabbott-laboratories_416x416.jpg",
+            "info": {
+                "open": 81.4,
+                "high": 81.55,
+                "low": 79.35,
+                "close": 79.53,
+                "volume": 741690.0
+            },
+            "link": "https://robinhood.com/stocks/ABT",
+            "change": "-2.30"
+        },
+        {
+            "ticker": "ACN",
+            "name": "Accenture",
+            "img_src": "https://katrinaosleja.lv/wp-content/uploads/2017/07/accenture-logo.png",
+            "info": {
+                "open": 188.34,
+                "high": 188.65,
+                "low": 184.84,
+                "close": 185.25,
+                "volume": 396792.0
+            },
+            "link": "https://robinhood.com/stocks/ACN",
+            "change": "-1.64"
+        },
+        {
+            "ticker": "ADBE",
+            "name": "Adobe Inc.",
+            "img_src": "https://cdn.freebiesupply.com/logos/large/2x/adobe-01-logo-png-transparent.png",
+            "info": {
+                "open": 271.18,
+                "high": 271.18,
+                "low": 266.26,
+                "close": 266.95,
+                "volume": 565836.0
+            },
+            "link": "https://robinhood.com/stocks/ADBE",
+            "change": "-1.56"
+        },
+        {
+            "ticker": "AGN",
+            "name": "Allergan",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQH-aGLnQS9XRw/company-logo_200_200/0?e=2159024400&v=beta&t=OMS2rFEvv55JzX8uWMeN2KbhTaTJ_9on7cTgJhi4A8s",
+            "info": {
+                "open": 166.08,
+                "high": 166.24,
+                "low": 165.02,
+                "close": 165.22,
+                "volume": 352194.0
+            },
+            "link": "https://robinhood.com/stocks/AGN",
+            "change": "-0.52"
+        },
+        {
+            "ticker": "AIG",
+            "name": "American Inter.",
+            "img_src": "https://www.insurancejournal.com/app/uploads/2011/01/aig-1024x1024.png",
+            "info": {
+                "open": 54.09,
+                "high": 54.25,
+                "low": 53.62,
+                "close": 53.72,
+                "volume": 580401.0
+            },
+            "link": "https://robinhood.com/stocks/AIG",
+            "change": "-0.68"
+        },
+        {
+            "ticker": "ALL",
+            "name": "Allstate",
+            "img_src": "https://assets.reviews.com/uploads/2015/09/25003340/allstate-corp.jpg",
+            "info": {
+                "open": 106.63,
+                "high": 107.13,
+                "low": 105.4,
+                "close": 105.57,
+                "volume": 159547.0
+            },
+            "link": "https://robinhood.com/stocks/ALL",
+            "change": "-0.99"
+        },
+        {
+            "ticker": "AMGN",
+            "name": "Amgen Inc.",
+            "img_src": "https://yt3.ggpht.com/a/AGF-l7_7DyRBPaBB6rR9Irc-h1vfr_d-cFo9bfdYQQ=s900-mo-c-c0xffffffff-rj-k-no",
+            "info": {
+                "open": 193.58,
+                "high": 193.58,
+                "low": 189.43,
+                "close": 190.81,
+                "volume": 325369.0
+            },
+            "link": "https://robinhood.com/stocks/AMGN",
+            "change": "-1.43"
+        },
+        {
+            "ticker": "AMZN",
+            "name": "Amazon.",
+            "img_src": "http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png",
+            "info": {
+                "open": 1726.45,
+                "high": 1728.5,
+                "low": 1711.0,
+                "close": 1714.32,
+                "volume": 534829.0
+            },
+            "link": "https://robinhood.com/stocks/AMZN",
+            "change": "-0.70"
+        },
+        {
+            "ticker": "AXP",
+            "name": "AmericanExpress",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/American_Express_logo_%282018%29.svg/1200px-American_Express_logo_%282018%29.svg.png",
+            "info": {
+                "open": 115.76,
+                "high": 115.81,
+                "low": 113.58,
+                "close": 113.77,
+                "volume": 601176.0
+            },
+            "link": "https://robinhood.com/stocks/AXP",
+            "change": "-1.72"
+        },
+        {
+            "ticker": "BA",
+            "name": "Boeing Co.",
+            "img_src": "http://www.riter-induction.com/wp-content/uploads/2015/03/co-logo-boeing.png",
+            "info": {
+                "open": 371.85,
+                "high": 372.99,
+                "low": 364.21,
+                "close": 364.65,
+                "volume": 885001.0
+            },
+            "link": "https://robinhood.com/stocks/BA",
+            "change": "-1.94"
+        },
+        {
+            "ticker": "BAC",
+            "name": "Bank of America",
+            "img_src": "https://awardwallet.com/blog/wp-content/uploads/2017/10/Bank-of-America-Logo-Featured.png",
+            "info": {
+                "open": 28.2,
+                "high": 28.3,
+                "low": 27.87,
+                "close": 28.0,
+                "volume": 13092134.0
+            },
+            "link": "https://robinhood.com/stocks/BAC",
+            "change": "-0.71"
+        },
+        {
+            "ticker": "BIIB",
+            "name": "Biogen",
+            "img_src": "http://www.johnpendleton.com/jpportfolio/wp-content/uploads/2015/06/biogenLogo1-465x346.jpg",
+            "info": {
+                "open": 226.56,
+                "high": 228.35,
+                "low": 223.67,
+                "close": 227.14,
+                "volume": 225708.0
+            },
+            "link": "https://robinhood.com/stocks/BIIB",
+            "change": "0.26"
+        },
+        {
+            "ticker": "BK",
+            "name": "Bank of NY Mellon",
+            "img_src": "https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fcompanies%2Fbank-of-ny-mellon_416x416.jpg",
+            "info": {
+                "open": 43.4,
+                "high": 43.5,
+                "low": 43.02,
+                "close": 43.03,
+                "volume": 773902.0
+            },
+            "link": "https://robinhood.com/stocks/BK",
+            "change": "-0.85"
+        },
+        {
+            "ticker": "BKNG",
+            "name": "Booking",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_of_Booking_Holdings_Inc%2C%28lock_up%2C_stacked_with_Brands%2C_full_color%29.PNG",
+            "info": {
+                "open": 1969.0,
+                "high": 1969.0,
+                "low": 1929.9,
+                "close": 1935.09,
+                "volume": 33503.0
+            },
+            "link": "https://robinhood.com/stocks/BKNG",
+            "change": "-1.72"
+        },
+        {
+            "ticker": "BLK",
+            "name": "BlackRock Inc",
+            "img_src": "https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fcompanies%2Fblackrock_416x416.jpg",
+            "info": {
+                "open": 428.5,
+                "high": 429.99,
+                "low": 421.8,
+                "close": 423.34,
+                "volume": 96736.0
+            },
+            "link": "https://robinhood.com/stocks/BLK",
+            "change": "-1.20"
+        },
+        {
+            "ticker": "BMY",
+            "name": "Bristol-Myers Squibb",
+            "img_src": "https://3blaws.s3.amazonaws.com/BMSF-blue-logo.png",
+            "info": {
+                "open": 50.3,
+                "high": 50.37,
+                "low": 48.82,
+                "close": 49.06,
+                "volume": 2711275.0
+            },
+            "link": "https://robinhood.com/stocks/BMY",
+            "change": "-2.47"
+        },
+        {
+            "ticker": "BRK.B",
+            "name": "Berkshire Hathaway",
+            "img_src": "https://bostonagentmagazine.com/wp-content/uploads/2018/09/bhhs-lockup-logoquality-seal-2jpg-611a8cdb34f3c397-1024x878.jpg",
+            "info": {
+                "open": 206.09,
+                "high": 205.93,
+                "low": 203.14,
+                "close": 203.77,
+                "volume": 1109914.0
+            },
+            "link": "https://robinhood.com/stocks/BRK.B",
+            "change": "-1.13"
+        },
+        {
+            "ticker": "C",
+            "name": "Citigroup Inc",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Citi.svg/1200px-Citi.svg.png",
+            "info": {
+                "open": 67.76,
+                "high": 67.8,
+                "low": 66.44,
+                "close": 66.54,
+                "volume": 3562676.0
+            },
+            "link": "https://robinhood.com/stocks/C",
+            "change": "-1.80"
+        },
+        {
+            "ticker": "CAT",
+            "name": "Caterpillar Inc.",
+            "img_src": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/28/2019/02/19072842/Caterpillar.png",
+            "info": {
+                "open": 121.15,
+                "high": 121.85,
+                "low": 120.35,
+                "close": 120.98,
+                "volume": 860949.0
+            },
+            "link": "https://robinhood.com/stocks/CAT",
+            "change": "-0.14"
+        },
+        {
+            "ticker": "CELG",
+            "name": "Celgene Corp",
+            "img_src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Celgene_logo.svg/1200px-Celgene_logo.svg.png",
+            "info": {
+                "open": 98.97,
+                "high": 98.98,
+                "low": 97.41,
+                "close": 97.67,
+                "volume": 309508.0
+            },
+            "link": "https://robinhood.com/stocks/CELG",
+            "change": "-1.31"
+        },
+        {
+            "ticker": "CHTR",
+            "name": "Charter Comm.",
+            "img_src": "https://www.rbr.com/wp-content/uploads/charter-1-e1562097150553.jpg",
+            "info": {
+                "open": 409.91,
+                "high": 410.7,
+                "low": 405.8,
+                "close": 410.46,
+                "volume": 154160.0
+            },
+            "link": "https://robinhood.com/stocks/CHTR",
+            "change": "0.13"
+        },
+        {
+            "ticker": "CL",
+            "name": "Colgate-Palmolive",
+            "img_src": "https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c13d340a7ea4370591a5bc7%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D416%26cropY1%3D0%26cropY2%3D416",
+            "info": {
+                "open": 71.4,
+                "high": 71.85,
+                "low": 70.67,
+                "close": 70.79,
+                "volume": 478639.0
+            },
+            "link": "https://robinhood.com/stocks/CL",
+            "change": "-0.85"
+        },
+        {
+            "ticker": "COF",
+            "name": "Capital One",
+            "img_src": "https://awardwallet.com/blog/wp-content/uploads/2017/04/Capital-One-Logo-Featured.jpg",
+            "info": {
+                "open": 88.12,
+                "high": 88.15,
+                "low": 86.34,
+                "close": 86.51,
+                "volume": 540278.0
+            },
+            "link": "https://robinhood.com/stocks/COF",
+            "change": "-1.83"
+        },
+        {
+            "ticker": "COP",
+            "name": "ConocoPhillips",
+            "img_src": "https://stocknews.com/wp-content/uploads/2019/04/download-13.png",
+            "info": {
+                "open": 54.79,
+                "high": 55.04,
+                "low": 54.16,
+                "close": 54.27,
+                "volume": 855708.0
+            },
+            "link": "https://robinhood.com/stocks/COP",
+            "change": "-0.95"
+        },
+        {
+            "ticker": "COST",
+            "name": "Costco",
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQFgmh2pajt3jQ/company-logo_200_200/0?e=2159024400&v=beta&t=PvgNnkl06fFOyEuieerGDaPk9Gk7xZLaXit4ePzszhs",
+            "info": {
+                "open": 283.23,
+                "high": 285.77,
+                "low": 282.5,
+                "close": 284.6,
+                "volume": 386850.0
+            },
+            "link": "https://robinhood.com/stocks/COST",
+            "change": "0.48"
+        },
+        {
+            "ticker": "CSCO",
+            "name": "Cisco Systems",
+            "img_src": "https://hypertecdirect.com/wp-content/uploads/2015/10/cisco-logo.png",
+            "info": {
+                "open": 47.37,
+                "high": 47.37,
+                "low": 46.58,
+                "close": 46.63,
+                "volume": 3264207.0
+            },
+            "link": "https://robinhood.com/stocks/CSCO",
+            "change": "-1.56"
+        },
+        {
+            "ticker": "CVS",
+            "name": "CVS Health",
+            "img_src": "https://www.hnmagazine.com/wp-content/uploads/2018/04/cvs-health-logo.jpg",
+            "info": {
+                "open": 61.98,
+                "high": 62.1,
+                "low": 61.34,
+                "close": 61.58,
+                "volume": 1292611.0
+            },
+            "link": "https://robinhood.com/stocks/CVS",
+            "change": "-0.65"
+        },
+        {
+            "ticker": "CVX",
+            "name": "Chevron",
+            "img_src": "https://media.licdn.com/dms/image/C560BAQFIzPIYfEdWdw/company-logo_200_200/0?e=2159024400&v=beta&t=xQCC50_cEjc1B5H_9yooZdFmMujR3wRRoUUp0NrM804",
+            "info": {
+                "open": 115.06,
+                "high": 115.11,
+                "low": 113.16,
+                "close": 113.24,
+                "volume": 1568250.0
+            },
+            "link": "https://robinhood.com/stocks/CVX",
+            "change": "-1.58"
+        },
+        {
+            "ticker": "DD",
+            "name": "DuPont de Nemours",
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQH4yb7AdtEA0g/company-logo_200_200/0?e=2159024400&v=beta&t=K7DHQOp5C_tTkJgIh1NxSTteP7XpuqjQxRADmuUnO-Y",
+            "info": {
+                "open": 66.66,
+                "high": 66.99,
+                "low": 65.71,
+                "close": 66.49,
+                "volume": 764937.0
+            },
+            "link": "https://robinhood.com/stocks/DD",
+            "change": "-0.26"
+        },
+        {
+            "ticker": "DHR",
+            "name": "Danaher Corp.",
+            "img_src": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0018/3523/brand.gif?itok=JLUSfgkR",
+            "info": {
+                "open": 140.53,
+                "high": 141.08,
+                "low": 136.48,
+                "close": 137.24,
+                "volume": 571095.0
+            },
+            "link": "https://robinhood.com/stocks/DHR",
+            "change": "-2.34"
+        },
+        {
+            "ticker": "DIS",
+            "name": "Disney",
+            "img_src": "https://i.pinimg.com/originals/d7/18/3f/d7183f72078df410f83279c1b7bbc191.jpg",
+            "info": {
+                "open": 128.51,
+                "high": 129.07,
+                "low": 127.7,
+                "close": 127.93,
+                "volume": 1882636.0
+            },
+            "link": "https://robinhood.com/stocks/DIS",
+            "change": "-0.45"
+        },
+        {
+            "ticker": "DOW",
+            "name": "Dow Inc.",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dow_Chemical_Company_logo.svg/1200px-Dow_Chemical_Company_logo.svg.png",
+            "info": {
+                "open": 44.67,
+                "high": 45.17,
+                "low": 44.36,
+                "close": 44.75,
+                "volume": 930110.0
+            },
+            "link": "https://robinhood.com/stocks/DOW",
+            "change": "0.18"
+        },
+        {
+            "ticker": "DUK",
+            "name": "Duke Energy",
+            "img_src": "https://www.fortwright.com/DesktopModules/DnnForge%20-%20NewsArticles/ImageHandler.ashx?Width=350&Height=350&HomeDirectory=%2FPortals%2Ffortwright%2F&FileName=Images%2FNews%2Fdukeenergylogo.png&PortalID=1&q=1&s=1",
+            "info": {
+                "open": 96.21,
+                "high": 96.34,
+                "low": 95.08,
+                "close": 95.13,
+                "volume": 344431.0
+            },
+            "link": "https://robinhood.com/stocks/DUK",
+            "change": "-1.12"
+        },
+        {
+            "ticker": "EMR",
+            "name": "Emerson Electric",
+            "img_src": "https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fcompanies%2Femerson-electric_416x416.jpg",
+            "info": {
+                "open": 64.28,
+                "high": 64.6,
+                "low": 63.25,
+                "close": 63.38,
+                "volume": 972554.0
+            },
+            "link": "https://robinhood.com/stocks/EMR",
+            "change": "-1.40"
+        },
+        {
+            "ticker": "EXC",
+            "name": "Exelon",
+            "img_src": "https://g.foolcdn.com/art/companylogos/square/exc.png",
+            "info": {
+                "open": 48.05,
+                "high": 48.11,
+                "low": 47.61,
+                "close": 47.68,
+                "volume": 458607.0
+            },
+            "link": "https://robinhood.com/stocks/EXC",
+            "change": "-0.77"
+        },
+        {
+            "ticker": "F",
+            "name": "Ford Motors",
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQGUxHv2MadZ9w/company-logo_200_200/0?e=2159024400&v=beta&t=_k4HaL9mXJUQzQ40_nAywfnJEH_2c6FWwBiqGJRd_HM",
+            "info": {
+                "open": 8.85,
+                "high": 8.86,
+                "low": 8.44,
+                "close": 8.56,
+                "volume": 17078177.0
+            },
+            "link": "https://robinhood.com/stocks/F",
+            "change": "-3.28"
+        },
+        {
+            "ticker": "FB",
+            "name": "Facebook",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1024px-F_icon.svg.png",
+            "info": {
+                "open": 174.84,
+                "high": 176.53,
+                "low": 173.11,
+                "close": 175.77,
+                "volume": 3195795.0
+            },
+            "link": "https://robinhood.com/stocks/FB",
+            "change": "0.53"
+        },
+        {
+            "ticker": "FDX",
+            "name": "FedEx",
+            "img_src": "https://yt3.ggpht.com/a/AGF-l79rwk83D8OjC8bg9uD-Yx2TuCDU2kQopsE_ig=s900-mo-c-c0xffffffff-rj-k-no",
+            "info": {
+                "open": 140.16,
+                "high": 141.18,
+                "low": 139.1,
+                "close": 139.94,
+                "volume": 733995.0
+            },
+            "link": "https://robinhood.com/stocks/FDX",
+            "change": "-0.16"
+        },
+        {
+            "ticker": "GD",
+            "name": "General Dynamics",
+            "img_src": "https://g.foolcdn.com/art/companylogos/square/gd.png",
+            "info": {
+                "open": 177.54,
+                "high": 178.26,
+                "low": 175.56,
+                "close": 175.67,
+                "volume": 228472.0
+            },
+            "link": "https://robinhood.com/stocks/GD",
+            "change": "-1.05"
+        },
+        {
+            "ticker": "GE",
+            "name": "General Electric",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/General_Electric_logo.svg/1024px-General_Electric_logo.svg.png",
+            "info": {
+                "open": 8.56,
+                "high": 8.59,
+                "low": 8.41,
+                "close": 8.51,
+                "volume": 12150900.0
+            },
+            "link": "https://robinhood.com/stocks/GE",
+            "change": "-0.58"
+        },
+        {
+            "ticker": "GILD",
+            "name": "Gilead Sciences",
+            "img_src": "https://g.foolcdn.com/art/companylogos/square/gild.png",
+            "info": {
+                "open": 62.94,
+                "high": 62.94,
+                "low": 61.6,
+                "close": 62.19,
+                "volume": 901971.0
+            },
+            "link": "https://robinhood.com/stocks/GILD",
+            "change": "-1.19"
+        },
+        {
+            "ticker": "GM",
+            "name": "General Motors",
+            "img_src": "https://cdn.freebiesupply.com/logos/large/2x/general-motors-logo-png-transparent.png",
+            "info": {
+                "open": 35.77,
+                "high": 35.77,
+                "low": 34.7,
+                "close": 34.73,
+                "volume": 3278467.0
+            },
+            "link": "https://robinhood.com/stocks/GM",
+            "change": "-2.91"
+        },
+        {
+            "ticker": "GOOG",
+            "name": "Alphabet Inc. C",
+            "img_src": "https://seeklogo.net/wp-content/uploads/2016/02/alphabet-inc-logo-preview-400x400.png",
+            "info": {
+                "open": 1195.0,
+                "high": 1196.99,
+                "low": 1179.73,
+                "close": 1182.01,
+                "volume": 244699.0
+            },
+            "link": "https://robinhood.com/stocks/GOOG",
+            "change": "-1.09"
+        },
+        {
+            "ticker": "GOOGL",
+            "name": "Alphabet Inc. A",
+            "img_src": "https://images.theconversation.com/files/93616/original/image-20150902-6700-t2axrz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+            "info": {
+                "open": 1196.5,
+                "high": 1198.76,
+                "low": 1180.0,
+                "close": 1182.21,
+                "volume": 245508.0
+            },
+            "link": "https://robinhood.com/stocks/GOOGL",
+            "change": "-1.19"
+        },
+        {
+            "ticker": "GS",
+            "name": "Goldman Sachs",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Goldman_Sachs.svg/1200px-Goldman_Sachs.svg.png",
+            "info": {
+                "open": 201.69,
+                "high": 201.88,
+                "low": 198.15,
+                "close": 198.87,
+                "volume": 765042.0
+            },
+            "link": "https://robinhood.com/stocks/GS",
+            "change": "-1.40"
+        },
+        {
+            "ticker": "HD",
+            "name": "Home Depot",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TheHomeDepot.svg/1200px-TheHomeDepot.svg.png",
+            "info": {
+                "open": 230.6,
+                "high": 230.6,
+                "low": 225.95,
+                "close": 226.55,
+                "volume": 855111.0
+            },
+            "link": "https://robinhood.com/stocks/HD",
+            "change": "-1.76"
+        },
+        {
+            "ticker": "HON",
+            "name": "Honeywell",
+            "img_src": "http://seekvectorlogo.com/wp-content/uploads/2018/02/honeywell-vector-logo-small.png",
+            "info": {
+                "open": 162.14,
+                "high": 162.83,
+                "low": 159.83,
+                "close": 160.41,
+                "volume": 1110555.0
+            },
+            "link": "https://robinhood.com/stocks/HON",
+            "change": "-1.07"
+        },
+        {
+            "ticker": "IBM",
+            "name": "IBM",
+            "img_src": "https://design-language-api.eu-de.mybluemix.net/images/core-blue40-blue90.svg",
+            "info": {
+                "open": 142.19,
+                "high": 142.7,
+                "low": 140.93,
+                "close": 141.08,
+                "volume": 516999.0
+            },
+            "link": "https://robinhood.com/stocks/IBM",
+            "change": "-0.78"
+        },
+        {
+            "ticker": "INTC",
+            "name": "Intel Corp.",
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQEQxLTTAA1tTA/company-logo_200_200/0?e=2159024400&v=beta&t=j4UVG4ef3PpUYHytoDWtYHhoqcJbwYzNDNCz9-ldsn8",
+            "info": {
+                "open": 50.31,
+                "high": 50.35,
+                "low": 49.57,
+                "close": 49.63,
+                "volume": 2803414.0
+            },
+            "link": "https://robinhood.com/stocks/INTC",
+            "change": "-1.35"
+        },
+        {
+            "ticker": "JNJ",
+            "name": "Johnson & Johnson",
+            "img_src": "https://yt3.ggpht.com/a/AGF-l7_sHkNtnCAHfJq1gQLIz1lwahbT3Y7FvvxC0Q=s900-mo-c-c0xffffffff-rj-k-no",
+            "info": {
+                "open": 132.76,
+                "high": 134.7,
+                "low": 131.89,
+                "close": 132.11,
+                "volume": 4291062.0
+            },
+            "link": "https://robinhood.com/stocks/JNJ",
+            "change": "-0.49"
+        },
+        {
+            "ticker": "JPM",
+            "name": "JPMorgan Chase",
+            "img_src": "https://g.foolcdn.com/art/companylogos/square/jpm.png",
+            "info": {
+                "open": 114.81,
+                "high": 114.9,
+                "low": 113.55,
+                "close": 113.64,
+                "volume": 2289882.0
+            },
+            "link": "https://robinhood.com/stocks/JPM",
+            "change": "-1.02"
+        },
+        {
+            "ticker": "KHC",
+            "name": "Kraft Heinz",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQFfNExxO-UJZw/company-logo_200_200/0?e=2159024400&v=beta&t=C3NeNWF1JsJ_gemiLTPXjnwPE_G6_IQ0btHx7df8o8w",
+            "info": {
+                "open": 27.21,
+                "high": 27.24,
+                "low": 26.63,
+                "close": 26.66,
+                "volume": 1149705.0
+            },
+            "link": "https://robinhood.com/stocks/KHC",
+            "change": "-2.02"
+        },
+        {
+            "ticker": "KMI",
+            "name": "Kinder Morgan",
+            "img_src": "https://cdn.worldvectorlogo.com/logos/kinder-morgan-1.svg",
+            "info": {
+                "open": 20.25,
+                "high": 20.32,
+                "low": 20.16,
+                "close": 20.2,
+                "volume": 1299147.0
+            },
+            "link": "https://robinhood.com/stocks/KMI",
+            "change": "-0.25"
+        },
+        {
+            "ticker": "KO",
+            "name": "The Coca-Cola Company",
+            "img_src": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0016/9323/brand.gif?itok=usCNyorW",
+            "info": {
+                "open": 54.21,
+                "high": 54.44,
+                "low": 53.66,
+                "close": 53.69,
+                "volume": 2223986.0
+            },
+            "link": "https://robinhood.com/stocks/KO",
+            "change": "-0.96"
+        },
+        {
+            "ticker": "LLY",
+            "name": "Eli Lilly",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQHI_1SzFANyBw/company-logo_200_200/0?e=2159024400&v=beta&t=C_hSrGkGzlTb4RCeRyLHZGIDzGw2KJVQ9e7MNLb-vhM",
+            "info": {
+                "open": 110.33,
+                "high": 110.64,
+                "low": 107.14,
+                "close": 107.37,
+                "volume": 825722.0
+            },
+            "link": "https://robinhood.com/stocks/LLY",
+            "change": "-2.68"
+        },
+        {
+            "ticker": "LMT",
+            "name": "Lockheed Martin",
+            "img_src": "http://seekvectorlogo.com/wp-content/uploads/2017/12/lockheed-martin-vector-logo-small.png",
+            "info": {
+                "open": 382.74,
+                "high": 383.06,
+                "low": 375.23,
+                "close": 375.4,
+                "volume": 271971.0
+            },
+            "link": "https://robinhood.com/stocks/LMT",
+            "change": "-1.92"
+        },
+        {
+            "ticker": "LOW",
+            "name": "Lowe's",
+            "img_src": "https://pbs.twimg.com/profile_images/729776009231380480/Dozl6Ihw_400x400.jpg",
+            "info": {
+                "open": 109.31,
+                "high": 109.31,
+                "low": 106.5,
+                "close": 107.16,
+                "volume": 772940.0
+            },
+            "link": "https://robinhood.com/stocks/LOW",
+            "change": "-1.97"
+        },
+        {
+            "ticker": "MA",
+            "name": "MasterCard Inc",
+            "img_src": "https://brand.mastercard.com/content/dam/mccom/brandcenter/thumbnails/mastercard_vrt_pos_92px_2x.png",
+            "info": {
+                "open": 268.16,
+                "high": 268.94,
+                "low": 262.52,
+                "close": 263.52,
+                "volume": 1166311.0
+            },
+            "link": "https://robinhood.com/stocks/MA",
+            "change": "-1.73"
+        },
+        {
+            "ticker": "MCD",
+            "name": "McDonald's Corp",
+            "img_src": "https://i.pinimg.com/originals/f4/4e/ec/f44eecf0fa921427f4a4669fb8f69115.png",
+            "info": {
+                "open": 207.93,
+                "high": 208.48,
+                "low": 206.16,
+                "close": 206.33,
+                "volume": 780202.0
+            },
+            "link": "https://robinhood.com/stocks/MCD",
+            "change": "-0.77"
+        },
+        {
+            "ticker": "MDLZ",
+            "name": "Mondel\u0113z Int.",
+            "img_src": "https://www.mondelezinternational.com/~/media/mondelezcorporate/uploads/newsroom/visual-library/mdlz_rgb_w_hires.jpg?la=en",
+            "info": {
+                "open": 54.52,
+                "high": 54.61,
+                "low": 53.91,
+                "close": 54.04,
+                "volume": 719858.0
+            },
+            "link": "https://robinhood.com/stocks/MDLZ",
+            "change": "-0.88"
+        },
+        {
+            "ticker": "MDT",
+            "name": "Medtronic plc",
+            "img_src": "https://cdn.freebiesupply.com/logos/large/2x/medtronic-logo-png-transparent.png",
+            "info": {
+                "open": 108.12,
+                "high": 108.45,
+                "low": 105.73,
+                "close": 106.0,
+                "volume": 730129.0
+            },
+            "link": "https://robinhood.com/stocks/MDT",
+            "change": "-1.96"
+        },
+        {
+            "ticker": "MET",
+            "name": "MetLife Inc.",
+            "img_src": "http://www.metlife.com/content/dam/metlifecom/us/social-share/metlife-logo-share.jpg",
+            "info": {
+                "open": 45.53,
+                "high": 45.7,
+                "low": 44.69,
+                "close": 44.73,
+                "volume": 696247.0
+            },
+            "link": "https://robinhood.com/stocks/MET",
+            "change": "-1.76"
+        },
+        {
+            "ticker": "MMM",
+            "name": "3M Company",
+            "img_src": "https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fcompanies%2F3m_416x416.jpg",
+            "info": {
+                "open": 157.06,
+                "high": 157.22,
+                "low": 155.49,
+                "close": 155.5,
+                "volume": 586014.0
+            },
+            "link": "https://robinhood.com/stocks/MMM",
+            "change": "-0.99"
+        },
+        {
+            "ticker": "MO",
+            "name": "Altria Group",
+            "img_src": "https://pbs.twimg.com/profile_images/1282715496/AG_pos_fullws_nor_a_400x400.jpg",
+            "info": {
+                "open": 40.97,
+                "high": 40.98,
+                "low": 40.49,
+                "close": 40.58,
+                "volume": 1457843.0
+            },
+            "link": "https://robinhood.com/stocks/MO",
+            "change": "-0.95"
+        },
+        {
+            "ticker": "MRK",
+            "name": "Merck & Co.",
+            "img_src": "https://g.foolcdn.com/art/companylogos/square/mrk.png",
+            "info": {
+                "open": 83.07,
+                "high": 83.21,
+                "low": 80.82,
+                "close": 81.06,
+                "volume": 1799826.0
+            },
+            "link": "https://robinhood.com/stocks/MRK",
+            "change": "-2.42"
+        },
+        {
+            "ticker": "MS",
+            "name": "Morgan Stanley",
+            "img_src": "https://g.foolcdn.com/art/companylogos/square/ms.png",
+            "info": {
+                "open": 41.04,
+                "high": 41.09,
+                "low": 40.33,
+                "close": 40.47,
+                "volume": 2493793.0
+            },
+            "link": "https://robinhood.com/stocks/MS",
+            "change": "-1.39"
+        },
+        {
+            "ticker": "MSFT",
+            "name": "Microsoft",
+            "img_src": "https://yt3.ggpht.com/a/AGF-l78f8ES-9_eZieHn8YSzA5IloOiJ0Bb6OwlJ=s900-mo-c-c0xffffffff-rj-k-no",
+            "info": {
+                "open": 136.34,
+                "high": 136.37,
+                "low": 133.81,
+                "close": 134.09,
+                "volume": 5108228.0
+            },
+            "link": "https://robinhood.com/stocks/MSFT",
+            "change": "-1.65"
+        },
+        {
+            "ticker": "NEE",
+            "name": "NextEra Energy",
+            "img_src": "http://www.investor.nexteraenergy.com/~/media/Images/N/NEE-IR/logo/og-logo.png",
+            "info": {
+                "open": 231.69,
+                "high": 232.48,
+                "low": 230.55,
+                "close": 230.7,
+                "volume": 282655.0
+            },
+            "link": "https://robinhood.com/stocks/NEE",
+            "change": "-0.43"
+        },
+        {
+            "ticker": "NFLX",
+            "name": "Netflix",
+            "img_src": "https://images-na.ssl-images-amazon.com/images/I/41Ix1vMUK7L._SY355_.png",
+            "info": {
+                "open": 263.88,
+                "high": 268.11,
+                "low": 262.19,
+                "close": 267.66,
+                "volume": 1614399.0
+            },
+            "link": "https://robinhood.com/stocks/NFLX",
+            "change": "1.43"
+        },
+        {
+            "ticker": "NKE",
+            "name": "Nike, Inc.",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Old_Nike_logo.jpg/220px-Old_Nike_logo.jpg",
+            "info": {
+                "open": 91.47,
+                "high": 91.84,
+                "low": 90.81,
+                "close": 91.02,
+                "volume": 1638171.0
+            },
+            "link": "https://robinhood.com/stocks/NKE",
+            "change": "-0.49"
+        },
+        {
+            "ticker": "NVDA",
+            "name": "NVIDIA Corp.",
+            "img_src": "https://yt3.ggpht.com/a/AGF-l79_Wt7ESATI74kJxTR_Vb4O7suwKHieH_ka9g=s900-mo-c-c0xffffffff-rj-k-no",
+            "info": {
+                "open": 173.12,
+                "high": 173.6,
+                "low": 170.9,
+                "close": 171.62,
+                "volume": 1294386.0
+            },
+            "link": "https://robinhood.com/stocks/NVDA",
+            "change": "-0.87"
+        },
+        {
+            "ticker": "ORCL",
+            "name": "Oracle",
+            "img_src": "https://pbs.twimg.com/profile_images/1142449815030079488/hsR5mWV7_400x400.jpg",
+            "info": {
+                "open": 53.5,
+                "high": 53.56,
+                "low": 52.77,
+                "close": 52.85,
+                "volume": 2844341.0
+            },
+            "link": "https://robinhood.com/stocks/ORCL",
+            "change": "-1.21"
+        },
+        {
+            "ticker": "OXY",
+            "name": "Occidental Petrol",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQFwd3YoRnbaUg/company-logo_200_200/0?e=2159024400&v=beta&t=IUSjBi6Nh1fdyZe24dCgSswcR761adoe1wEWMpUKvao",
+            "info": {
+                "open": 43.64,
+                "high": 43.74,
+                "low": 42.88,
+                "close": 43.31,
+                "volume": 1134979.0
+            },
+            "link": "https://robinhood.com/stocks/OXY",
+            "change": "-0.76"
+        },
+        {
+            "ticker": "PEP",
+            "name": "PepsiCo",
+            "img_src": "https://www.pepsico.com/images/album/brand-logos/pepsi-logo.jpg?sfvrsn=5f47a137_2",
+            "info": {
+                "open": 136.89,
+                "high": 137.38,
+                "low": 135.38,
+                "close": 135.46,
+                "volume": 478607.0
+            },
+            "link": "https://robinhood.com/stocks/PEP",
+            "change": "-1.04"
+        },
+        {
+            "ticker": "PFE",
+            "name": "Pfizer Inc",
+            "img_src": "http://seekvectorlogo.com/wp-content/uploads/2018/03/pfizer-vector-logo-small.png",
+            "info": {
+                "open": 35.26,
+                "high": 35.27,
+                "low": 34.77,
+                "close": 34.9,
+                "volume": 4121344.0
+            },
+            "link": "https://robinhood.com/stocks/PFE",
+            "change": "-1.02"
+        },
+        {
+            "ticker": "PG",
+            "name": "Procter & Gamble",
+            "img_src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Procter_%26_Gamble_logo.svg/1200px-Procter_%26_Gamble_logo.svg.png",
+            "info": {
+                "open": 123.2,
+                "high": 123.65,
+                "low": 121.47,
+                "close": 121.61,
+                "volume": 1086064.0
+            },
+            "link": "https://robinhood.com/stocks/PG",
+            "change": "-1.29"
+        },
+        {
+            "ticker": "PM",
+            "name": "Philip Morris",
+            "img_src": "https://cdn.worldvectorlogo.com/logos/philip-morris-international.svg",
+            "info": {
+                "open": 77.83,
+                "high": 78.1,
+                "low": 76.49,
+                "close": 76.92,
+                "volume": 1523262.0
+            },
+            "link": "https://robinhood.com/stocks/PM",
+            "change": "-1.17"
+        },
+        {
+            "ticker": "PYPL",
+            "name": "PayPal Holdings",
+            "img_src": "https://seeklogo.net/wp-content/uploads/2015/11/paypal-logo-preview.png",
+            "info": {
+                "open": 101.82,
+                "high": 101.83,
+                "low": 100.03,
+                "close": 100.23,
+                "volume": 1183194.0
+            },
+            "link": "https://robinhood.com/stocks/PYPL",
+            "change": "-1.56"
+        },
+        {
+            "ticker": "QCOM",
+            "name": "Qualcomm Inc.",
+            "img_src": "https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bc4a70d31358e59f57aaab7%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D416%26cropY1%3D0%26cropY2%3D416",
+            "info": {
+                "open": 75.26,
+                "high": 75.68,
+                "low": 74.42,
+                "close": 74.48,
+                "volume": 669957.0
+            },
+            "link": "https://robinhood.com/stocks/QCOM",
+            "change": "-1.04"
+        },
+        {
+            "ticker": "RTN",
+            "name": "Raytheon Co.",
+            "img_src": "https://dwglogo.com/wp-content/uploads/2016/03/Raytheon_logo_02.png",
+            "info": {
+                "open": 190.4,
+                "high": 191.47,
+                "low": 188.24,
+                "close": 189.19,
+                "volume": 668549.0
+            },
+            "link": "https://robinhood.com/stocks/RTN",
+            "change": "-0.64"
+        },
+        {
+            "ticker": "SBUX",
+            "name": "Starbucks Corp.",
+            "img_src": "https://www.corpgov.net/wp-content/uploads/2016/03/Starbucks-Corporation.png",
+            "info": {
+                "open": 86.0,
+                "high": 86.01,
+                "low": 84.81,
+                "close": 85.04,
+                "volume": 1488138.0
+            },
+            "link": "https://robinhood.com/stocks/SBUX",
+            "change": "-1.12"
+        },
+        {
+            "ticker": "SLB",
+            "name": "Schlumberger",
+            "img_src": "https://media.licdn.com/dms/image/C4D0BAQHsiK38EEDiMg/company-logo_200_200/0?e=2159024400&v=beta&t=nSRCuiWpJOw_DG8TF6WZ93pUqvWbu_sv5LIB5Wn4LTU",
+            "info": {
+                "open": 32.64,
+                "high": 32.75,
+                "low": 32.07,
+                "close": 32.27,
+                "volume": 2503564.0
+            },
+            "link": "https://robinhood.com/stocks/SLB",
+            "change": "-1.13"
+        },
+        {
+            "ticker": "SO",
+            "name": "Southern Company",
+            "img_src": "https://www.southerncompany.com/content/dam/southern-company/Logos/Vertical_Logos/620x465-southern_power_v_cmyk.jpg.img.320.low.jpg/1503949194404.jpg",
+            "info": {
+                "open": 61.87,
+                "high": 61.9,
+                "low": 61.31,
+                "close": 61.37,
+                "volume": 720146.0
+            },
+            "link": "https://robinhood.com/stocks/SO",
+            "change": "-0.81"
+        },
+        {
+            "ticker": "SPG",
+            "name": "Simon Property",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQHxQ4wCVGBrjQ/company-logo_200_200/0?e=2159024400&v=beta&t=VwqSyT2-A-cAmoEXGx_WQ5qn_-Q0RXqjKxIh134VdTM",
+            "info": {
+                "open": 152.28,
+                "high": 152.28,
+                "low": 149.22,
+                "close": 149.98,
+                "volume": 326540.0
+            },
+            "link": "https://robinhood.com/stocks/SPG",
+            "change": "-1.51"
+        },
+        {
+            "ticker": "T",
+            "name": "AT&T Inc",
+            "img_src": "https://images.techhive.com/images/article/2014/04/att-logo-100262596-large.jpg",
+            "info": {
+                "open": 37.35,
+                "high": 37.35,
+                "low": 37.01,
+                "close": 37.03,
+                "volume": 5047605.0
+            },
+            "link": "https://robinhood.com/stocks/T",
+            "change": "-0.86"
+        },
+        {
+            "ticker": "TGT",
+            "name": "Target",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Target_logo.svg/1200px-Target_logo.svg.png",
+            "info": {
+                "open": 104.9,
+                "high": 105.3,
+                "low": 104.01,
+                "close": 104.58,
+                "volume": 1217400.0
+            },
+            "link": "https://robinhood.com/stocks/TGT",
+            "change": "-0.31"
+        },
+        {
+            "ticker": "TXN",
+            "name": "Texas Instruments",
+            "img_src": "https://cdn.freebiesupply.com/logos/large/2x/texas-instruments-1-logo-png-transparent.png",
+            "info": {
+                "open": 127.26,
+                "high": 127.78,
+                "low": 126.24,
+                "close": 126.58,
+                "volume": 667242.0
+            },
+            "link": "https://robinhood.com/stocks/TXN",
+            "change": "-0.53"
+        },
+        {
+            "ticker": "UNH",
+            "name": "UnitedHealth Group",
+            "img_src": "https://bloximages.newyork1.vip.townnews.com/ifallsjournal.com/content/tncms/assets/v3/editorial/5/5e/55e357b2-9d07-5bd5-93d7-277a889b124d/5c2f9d0696e38.image.jpg",
+            "info": {
+                "open": 216.15,
+                "high": 219.0,
+                "low": 215.28,
+                "close": 218.84,
+                "volume": 995567.0
+            },
+            "link": "https://robinhood.com/stocks/UNH",
+            "change": "1.24"
+        },
+        {
+            "ticker": "UNP",
+            "name": "Union Pacific Corp.",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Union_pacific_railroad_logo.svg/1200px-Union_pacific_railroad_logo.svg.png",
+            "info": {
+                "open": 154.5,
+                "high": 154.71,
+                "low": 152.14,
+                "close": 152.19,
+                "volume": 1022352.0
+            },
+            "link": "https://robinhood.com/stocks/UNP",
+            "change": "-1.50"
+        },
+        {
+            "ticker": "UPS",
+            "name": "United Parcel Service",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/UPS_Logo_Shield_2017.svg/1200px-UPS_Logo_Shield_2017.svg.png",
+            "info": {
+                "open": 114.89,
+                "high": 115.49,
+                "low": 114.34,
+                "close": 114.58,
+                "volume": 830091.0
+            },
+            "link": "https://robinhood.com/stocks/UPS",
+            "change": "-0.27"
+        },
+        {
+            "ticker": "USB",
+            "name": "U.S. Bancorp",
+            "img_src": "https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fcompanies%2Fus-bancorp_416x416.jpg",
+            "info": {
+                "open": 53.48,
+                "high": 53.52,
+                "low": 52.95,
+                "close": 52.98,
+                "volume": 915456.0
+            },
+            "link": "https://robinhood.com/stocks/USB",
+            "change": "-0.93"
+        },
+        {
+            "ticker": "UTX",
+            "name": "United Tech",
+            "img_src": "https://usa.visa.com/dam/VCOM/global/pay-with-visa/images/vco-cards-linear-icon-450x450.png",
+            "info": {
+                "open": 132.83,
+                "high": 133.0,
+                "low": 130.7,
+                "close": 131.06,
+                "volume": 619805.0
+            },
+            "link": "https://robinhood.com/stocks/UTX",
+            "change": "-1.33"
+        },
+        {
+            "ticker": "V",
+            "name": "Visa Inc.",
+            "img_src": "https://www.logolynx.com/images/logolynx/82/826264bdb2e7a4f132886cb1d6729509.jpeg",
+            "info": {
+                "open": 172.64,
+                "high": 172.94,
+                "low": 169.39,
+                "close": 169.79,
+                "volume": 2001243.0
+            },
+            "link": "https://robinhood.com/stocks/V",
+            "change": "-1.65"
+        },
+        {
+            "ticker": "VZ",
+            "name": "Verizon",
+            "img_src": "https://cdn.freebiesupply.com/logos/large/2x/verizon-4-logo-png-transparent.png",
+            "info": {
+                "open": 59.7,
+                "high": 59.72,
+                "low": 58.84,
+                "close": 58.9,
+                "volume": 2066351.0
+            },
+            "link": "https://robinhood.com/stocks/VZ",
+            "change": "-1.34"
+        },
+        {
+            "ticker": "WBA",
+            "name": "Walgreens Boots Alliance",
+            "img_src": "https://media.licdn.com/dms/image/C4E0BAQFROcP05We0pQ/company-logo_200_200/0?e=2159024400&v=beta&t=ufOJM6_gU9qc2q9sLb1IE9VfGinUA2OHpJyv4CyRvwQ",
+            "info": {
+                "open": 54.53,
+                "high": 54.62,
+                "low": 53.35,
+                "close": 53.59,
+                "volume": 736821.0
+            },
+            "link": "https://robinhood.com/stocks/WBA",
+            "change": "-1.72"
+        },
+        {
+            "ticker": "WFC",
+            "name": "Wells Fargo",
+            "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wells_Fargo_Bank.svg/1200px-Wells_Fargo_Bank.svg.png",
+            "info": {
+                "open": 48.72,
+                "high": 49.04,
+                "low": 48.48,
+                "close": 48.55,
+                "volume": 4175368.0
+            },
+            "link": "https://robinhood.com/stocks/WFC",
+            "change": "-0.35"
+        },
+        {
+            "ticker": "WMT",
+            "name": "Walmart",
+            "img_src": "http://www.braindw.com/wp-content/uploads/2018/05/logo-walmart.jpg",
+            "info": {
+                "open": 117.4,
+                "high": 117.55,
+                "low": 116.6,
+                "close": 116.76,
+                "volume": 1155595.0
+            },
+            "link": "https://robinhood.com/stocks/WMT",
+            "change": "-0.55"
+        },
+        {
+            "ticker": "XOM",
+            "name": "Exxon Mobil",
+            "img_src": "https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fcompanies%2Fexxon-mobil_416x416.jpg",
+            "info": {
+                "open": 68.27,
+                "high": 68.59,
+                "low": 67.69,
+                "close": 67.82,
+                "volume": 2161819.0
+            },
+            "link": "https://robinhood.com/stocks/XOM",
+            "change": "-0.66"
+        }
+    ],
+    "top": [
+        {
+            "name": "Netflix",
+            "change": 1.43
+        },
+        {
+            "name": "UnitedHealth Group",
+            "change": 1.24
+        },
+        {
+            "name": "FedEx",
+            "change": -0.16
+        },
+        {
+            "name": "Kinder Morgan",
+            "change": -0.25
+        },
+        {
+            "name": "United Parcel Service",
+            "change": -0.27
+        }
+    ],
+    "bottom": [
+        {
+            "name": "Ford Motors",
+            "change": -3.28
+        },
+        {
+            "name": "General Motors",
+            "change": -2.91
+        },
+        {
+            "name": "Eli Lilly",
+            "change": -2.68
+        },
+        {
+            "name": "Merck & Co.",
+            "change": -2.42
+        },
+        {
+            "name": "Medtronic plc",
+            "change": -1.96
+        }
+    ]
+}
