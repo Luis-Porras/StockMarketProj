@@ -115,23 +115,25 @@ all_stocks = {
 full_stock_info = all_stocks.copy() 
 x = 0
 
-import datetime
-currentDT = datetime.datetime.now()
+def get_datetoday():
+	import datetime
+	currentDT = datetime.datetime.now()
 
-month = currentDT.month
-day = currentDT.day
+	month = currentDT.month
+	day = currentDT.day
 
-if month <10:
-	month = "0"+str(month)
+	if month <10:
+		month = "0"+str(month)
 
-if day <10:
-	day = "0"+str(day)
+	if day <10:
+		day = "0"+str(day)
 
-day = str(day)
-month = str(month)
-datetoday = str(currentDT.year)+"-"+month+"-"+day
-print(type(datetoday))
+	day = str(day)
+	month = str(month)
+	datetoday = str(currentDT.year)+"-"+month+"-"+day
+	return datetoday
 
+datetoday = get_datetoday()
 #one api call = info for only one stock for current date
 
 stock_count =1 
@@ -140,7 +142,7 @@ for i in full_stock_info["stocks"]:
 		r = requests.get('https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol='+i["ticker"]+'&apikey=' + API_KEY).json()
 
 		#Referencing a weekend date causes an error. Market is closed.
-		stock_info = r['Time Series (Daily)'][datetoday]
+		stock_info = r['Time Series (Daily)']["2019-10-03"]
 	
 
 
@@ -175,17 +177,18 @@ for i in full_stock_info["stocks"]:
 def get_top5(stocks):
 	counter = 0
 	top_5 = []
-
 	while counter < len(stocks["stocks"]):
+		changes = []
 		if len(top_5) == 5:
-			for i in top_5:
-				current_change = float(stocks["stocks"][counter]["change"])
-				if i["change"] < current_change:
-					i["change"] = current_change
-					i["name"] = stocks["stocks"][counter]["name"]
+			current_stock = float(stocks["stocks"][counter]["change"])
+			for element in top_5:
+				changes.append(element["change"])
+
+			for element in top_5:
+				if element["change"] == min(changes) and current_stock > element["change"]:
+					element["change"] = current_stock
+					element["name"] = stocks["stocks"][counter]["name"]
 					break
-				else:
-					pass
 		else:
 			top_5.append({"name":stocks["stocks"][counter]["name"], "change":float(stocks["stocks"][counter]["change"])})
 		counter += 1
@@ -195,19 +198,19 @@ def get_bottom5(stocks):
 	counter = 0
 	bottom_5 = []
 	while counter < len(stocks["stocks"]):
-
+		changes = []
 		if len(bottom_5) == 5:
-			for i in bottom_5:
-				current_change = float(stocks["stocks"][counter]["change"])
-				if i["change"] > current_change:
-					i["change"] = current_change
-					i["name"] = stocks["stocks"][counter]["name"]
+			current_stock = float(stocks["stocks"][counter]["change"])
+			for element in bottom_5:
+				changes.append(element["change"])
+
+			for element in bottom_5:
+				if element["change"] == max(changes) and current_stock < element["change"]:
+					element["change"] = current_stock
+					element["name"] = stocks["stocks"][counter]["name"]
 					break
-				else:
-					pass
 		else:
 			bottom_5.append({"name":stocks["stocks"][counter]["name"], "change":float(stocks["stocks"][counter]["change"])})
-
 		counter += 1
 	return bottom_5
 
