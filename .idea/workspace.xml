@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="155277a8-a4c9-42a1-9172-57320651fe3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_final.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/stock_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock_data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stock_data.xml" afterDir="false" />
-    </list>
+    <list default="true" id="155277a8-a4c9-42a1-9172-57320651fe3b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stock_data.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="261">
               <caret line="1384" column="32" lean-forward="true" selection-start-line="1384" selection-start-column="32" selection-end-line="1384" selection-end-column="32" />
               <folding>
                 <element signature="e#1933#1938#0" expanded="true" />
@@ -179,12 +173,12 @@
       <workItem from="1569026239754" duration="1539000" />
       <workItem from="1569621798409" duration="1232000" />
       <workItem from="1570027571644" duration="391000" />
-      <workItem from="1570298241903" duration="834000" />
+      <workItem from="1570298241903" duration="879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41822000" />
+    <option name="totallyTimeSpent" value="41867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
@@ -253,7 +247,7 @@
     <entry file="file://$PROJECT_DIR$/stock_app.xml" />
     <entry file="file://$PROJECT_DIR$/stock_data.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="261">
           <caret line="1384" column="32" lean-forward="true" selection-start-line="1384" selection-start-column="32" selection-end-line="1384" selection-end-column="32" />
           <folding>
             <element signature="e#1933#1938#0" expanded="true" />
